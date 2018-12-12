@@ -1,1 +1,2 @@
-# AntiAntiPtraceDebug
+#反反调试（ptrace反调试）
+简书：
